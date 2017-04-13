@@ -1,0 +1,6 @@
+c:\users\oleg\documents\visual studio 2010\Projects\RS\RS\RS\bin\x86\Debug\RS.exe
+c:\users\oleg\documents\visual studio 2010\Projects\RS\RS\RS\bin\x86\Debug\RS.pdb
+c:\users\oleg\documents\visual studio 2010\Projects\RS\RS\RS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2010\Projects\RS\RS\RS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\oleg\documents\visual studio 2010\Projects\RS\RS\RS\obj\x86\Debug\RS.exe
+c:\users\oleg\documents\visual studio 2010\Projects\RS\RS\RS\obj\x86\Debug\RS.pdb

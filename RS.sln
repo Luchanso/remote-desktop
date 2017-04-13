@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS Clinet", "RS Clinet\RS Clinet.csproj", "{5DDB6E68-C979-4E0C-BA11-1215172D3A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS", "RS\RS\RS.csproj", "{ECFF8901-6971-4C5C-A337-C861F23B77F5}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RSContent", "RS\RSContent\RSContent.contentproj", "{3526B604-3A00-4F8C-AEB6-34FEA4405ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DDB6E68-C979-4E0C-BA11-1215172D3A24}.Debug|x86.ActiveCfg = Debug|x86
+		{5DDB6E68-C979-4E0C-BA11-1215172D3A24}.Debug|x86.Build.0 = Debug|x86
+		{5DDB6E68-C979-4E0C-BA11-1215172D3A24}.Release|x86.ActiveCfg = Release|x86
+		{5DDB6E68-C979-4E0C-BA11-1215172D3A24}.Release|x86.Build.0 = Release|x86
+		{ECFF8901-6971-4C5C-A337-C861F23B77F5}.Debug|x86.ActiveCfg = Debug|x86
+		{ECFF8901-6971-4C5C-A337-C861F23B77F5}.Debug|x86.Build.0 = Debug|x86
+		{ECFF8901-6971-4C5C-A337-C861F23B77F5}.Release|x86.ActiveCfg = Release|x86
+		{ECFF8901-6971-4C5C-A337-C861F23B77F5}.Release|x86.Build.0 = Release|x86
+		{3526B604-3A00-4F8C-AEB6-34FEA4405ED8}.Debug|x86.ActiveCfg = Debug|x86
+		{3526B604-3A00-4F8C-AEB6-34FEA4405ED8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
